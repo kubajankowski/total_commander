@@ -1,0 +1,89 @@
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\bin\Debug\Commander.exe.config
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\bin\Debug\Commander.exe
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\bin\Debug\Commander.pdb
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\obj\Debug\Commander.csprojAssemblyReference.cache
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\obj\Debug\Commander.frmCommander.resources
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\obj\Debug\Commander.Properties.Resources.resources
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\obj\Debug\Commander.csproj.GenerateResource.cache
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\obj\Debug\Commander.csproj.CoreCompileInputs.cache
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\obj\Debug\Commander.exe
+C:\Users\BadKahuna\Desktop\PROJEKT\NOWY\Commander\obj\Debug\Commander.pdb
+G:\PROJEKT\NOWY\Commander\obj\Debug\Commander.csproj.AssemblyReference.cache
+G:\PROJEKT\NOWY\Commander\obj\Debug\Commander.csproj.SuggestedBindingRedirects.cache
+G:\PROJEKT\NOWY\Commander\obj\Debug\Commander.frmCommander.resources
+G:\PROJEKT\NOWY\Commander\obj\Debug\Commander.Properties.Resources.resources
+G:\PROJEKT\NOWY\Commander\obj\Debug\Commander.csproj.GenerateResource.cache
+G:\PROJEKT\NOWY\Commander\obj\Debug\Commander.csproj.CoreCompileInputs.cache
+G:\PROJEKT\NOWY\Commander\obj\Debug\Commander.exe
+G:\PROJEKT\NOWY\Commander\obj\Debug\Commander.pdb
+G:\PROJEKT\NOWY\Commander\bin\Debug\Commander.exe.config
+G:\PROJEKT\NOWY\Commander\bin\Debug\Commander.exe
+G:\PROJEKT\NOWY\Commander\bin\Debug\Commander.pdb
+C:\Users\sklimkowski\Desktop\NOWY\Commander\bin\Debug\Commander.exe.config
+C:\Users\sklimkowski\Desktop\NOWY\Commander\bin\Debug\Commander.exe
+C:\Users\sklimkowski\Desktop\NOWY\Commander\bin\Debug\Commander.pdb
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.csproj.AssemblyReference.cache
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.csproj.SuggestedBindingRedirects.cache
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.frmCommander.resources
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.Properties.Resources.resources
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.csproj.GenerateResource.cache
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.csproj.CoreCompileInputs.cache
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.exe
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.pdb
+C:\Users\sklimkowski\Desktop\NOWY\Commander\obj\Debug\Commander.NowyFolder.resources
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\bin\Debug\Commander.exe.config
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\bin\Debug\Commander.exe
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\bin\Debug\Commander.pdb
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\obj\Debug\Commander.csprojAssemblyReference.cache
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\obj\Debug\Commander.frmCommander.resources
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\obj\Debug\Commander.NowyFolder.resources
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\obj\Debug\Commander.Properties.Resources.resources
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\obj\Debug\Commander.csproj.GenerateResource.cache
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\obj\Debug\Commander.csproj.CoreCompileInputs.cache
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\obj\Debug\Commander.exe
+C:\Users\BadKahuna\Desktop\PRJ2.0\NOWY\Commander\obj\Debug\Commander.pdb
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\obj\Debug\Commander.csproj.AssemblyReference.cache
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\obj\Debug\Commander.frmCommander.resources
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\obj\Debug\Commander.NowyFolder.resources
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\obj\Debug\Commander.Properties.Resources.resources
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\obj\Debug\Commander.csproj.GenerateResource.cache
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\obj\Debug\Commander.csproj.CoreCompileInputs.cache
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\obj\Debug\Commander.exe
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\obj\Debug\Commander.pdb
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\bin\Debug\Commander.exe.config
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\bin\Debug\Commander.exe
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx\Commander\bin\Debug\Commander.pdb
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\bin\Debug\Commander.exe.config
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\bin\Debug\Commander.exe
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\bin\Debug\Commander.pdb
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\obj\Debug\Commander.csproj.AssemblyReference.cache
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\obj\Debug\Commander.frmCommander.resources
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\obj\Debug\Commander.NowyFolder.resources
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\obj\Debug\Commander.Properties.Resources.resources
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\obj\Debug\Commander.csproj.GenerateResource.cache
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\obj\Debug\Commander.csproj.CoreCompileInputs.cache
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\obj\Debug\Commander.exe
+D:\Nauka\Programowanie\Zlecenia\12.2021 - 05.2022\Commander\Commanderx v2\Commander\obj\Debug\Commander.pdb
+C:\Users\BadKahuna\Desktop\LAST\Commander\bin\Debug\Commander.exe.config
+C:\Users\BadKahuna\Desktop\LAST\Commander\bin\Debug\Commander.exe
+C:\Users\BadKahuna\Desktop\LAST\Commander\bin\Debug\Commander.pdb
+C:\Users\BadKahuna\Desktop\LAST\Commander\obj\Debug\Commander.csprojAssemblyReference.cache
+C:\Users\BadKahuna\Desktop\LAST\Commander\obj\Debug\Commander.frmCommander.resources
+C:\Users\BadKahuna\Desktop\LAST\Commander\obj\Debug\Commander.NowyFolder.resources
+C:\Users\BadKahuna\Desktop\LAST\Commander\obj\Debug\Commander.Properties.Resources.resources
+C:\Users\BadKahuna\Desktop\LAST\Commander\obj\Debug\Commander.csproj.GenerateResource.cache
+C:\Users\BadKahuna\Desktop\LAST\Commander\obj\Debug\Commander.csproj.CoreCompileInputs.cache
+C:\Users\BadKahuna\Desktop\LAST\Commander\obj\Debug\Commander.exe
+C:\Users\BadKahuna\Desktop\LAST\Commander\obj\Debug\Commander.pdb
+C:\Users\j.jankowski\Music\Commander\bin\Debug\Commander.exe.config
+C:\Users\j.jankowski\Music\Commander\bin\Debug\Commander.exe
+C:\Users\j.jankowski\Music\Commander\bin\Debug\Commander.pdb
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.csproj.AssemblyReference.cache
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.frmCommander.resources
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.NowyFolder.resources
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.Properties.Resources.resources
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.csproj.GenerateResource.cache
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.csproj.CoreCompileInputs.cache
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.exe
+C:\Users\j.jankowski\Music\Commander\obj\Debug\Commander.pdb

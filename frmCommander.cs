@@ -10,6 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
+using System.Data.Common;
 
 namespace Commander
 {
@@ -99,19 +100,28 @@ namespace Commander
         private void KopiujKatalog(string zrodlo, string cel)
         {
             string[] nazwy;
-            if (!Directory.Exists(cel)) Directory.CreateDirectory(cel);
-            nazwy = Directory.GetFileSystemEntries(zrodlo);
-            foreach (string nazwa in nazwy)
+            //if (!Directory.Exists(cel)) Directory.CreateDirectory(cel);
+            try
             {
-                if (Directory.Exists(nazwa))
+                if (!Directory.Exists(cel)) Directory.CreateDirectory(cel);
+                nazwy = Directory.GetFileSystemEntries(zrodlo);
+                foreach (string nazwa in nazwy)
                 {
-                    KopiujKatalog(nazwa, cel + Path.GetFileName(nazwa) + "\\");
-                }
-                else
-                {
-                    File.Copy(nazwa, cel + Path.GetFileName(nazwa), true);
+                    if (Directory.Exists(nazwa))
+                    {
+                        KopiujKatalog(nazwa, cel + Path.GetFileName(nazwa) + "\\");
+                    }
+                    else
+                    {
+                        File.Copy(nazwa, cel + Path.GetFileName(nazwa), true);
+                    }
                 }
             }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+            }
+
         }
 
         ////////////////////////////////////////////////////////////////////////////////////////// 
@@ -413,7 +423,17 @@ namespace Commander
                     cel = NieAktywnaSciezka + AktywneOkno.SelectedItems[i].Text +
                     "." + AktywneOkno.SelectedItems[i].SubItems[1].Text;
 
-                    File.Copy(zrodlo, cel, true);
+                    //File.Copy(zrodlo, cel, true);
+
+                    try
+                    {
+                        File.Copy(zrodlo, cel, true);
+                    }
+                    catch (Exception x)
+                    {
+                        MessageBox.Show(x.Message);
+                    }
+
                     File.Delete(zrodlo);
                 }
             }
